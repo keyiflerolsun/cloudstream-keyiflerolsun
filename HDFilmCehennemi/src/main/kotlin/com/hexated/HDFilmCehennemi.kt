@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonProperty
 import org.jsoup.Jsoup
 
 class HDFilmCehennemi : MainAPI() {
-    override var mainUrl              = "https://www.hdfilmcehennemi.movie"
+    override var mainUrl              = "https://www.hdfilmcehennemi1.net"
     override var name                 = "HDFilmCehennemi"
     override val hasMainPage          = true
     override var lang                 = "tr"
